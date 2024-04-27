@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ramdeo
-- I Have been Working Full Stack Developer in Cien Ind Pvt Ltd since Jan 2022
+- I Have been Working as a Full Stack Developer in Cien Ind Pvt Ltd since Jan 2022
 - Language using Python and JavaScript with Django and Reactjs with Database HeidiSql
 - 📫 How to reach me ...You can Email me at Yadavramdeo45@gmail.com
 
