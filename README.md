@@ -7,7 +7,7 @@ I am a Full-Stack Developer with over 2 years of experience, currently worked at
 - **Web Technologies:** HTML, CSS, React JS,
 - **Back-End:** Django Rest Framework, REST APIs
 - **System Design:** Low-Level Design (LLD), High-Level Design (HLD)
-- **Familiarity:** Docker, Container, CI/CD Pipelines, Git, AWS, Azure, GCP, Kubernetes, Agile- Jira., Linux, Computer Network, Operating System.
+- **Familiarity:** AWS, Azure, Kubernetes Docker, Container, CI/CD Pipelines, GCP, Agile- Jira, Git, GitHub, Linux, Computer Network, Operating System, DBMS.
 - **Database Management:** SQL, MongoDB, Redis (NoSQL), Sqlite3
 - **Other Skills:** Pandas, NumPy, NLP, Basics of AI
 ## 👨‍💻 What I Do
