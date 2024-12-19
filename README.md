@@ -3,12 +3,13 @@
 I am a Full-Stack Developer with over 2 years of experience, currently worked at Ciena India Pvt. Ltd. since January 2022. My expertise lies in developing robust and scalable web applications using modern technologies.
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript  
-- **Frameworks:** React.js, Django Rest Framework (DRF)  
-- **Technologies:** Microservices, Docker, Kubernetes  
-- **Database:** HeidiSQL, PostgreSql, SQl
-- **Other Skills:** Pandas, NumPy, Data Structures, Algorithms, NLP, Basics of AI  
-
+- **Languages:** Python, JavaScript, C/ C++
+- **Web Technologies:** HTML, CSS, React JS,
+- **Back-End:** Django Rest Framework, REST APIs
+- **System Design:** Low-Level Design (LLD), High-Level Design (HLD)
+- **Familiarity:** Docker, Container, CI/CD Pipelines, Git, AWS, Azure, GCP, Kubernetes, Agile- Jira., Linux, Computer Network, Operating System.
+- **Database Management:** SQL, MongoDB, Redis (NoSQL), Sqlite3
+- **Other Skills:** Pandas, NumPy, NLP, Basics of AI
 ## 👨‍💻 What I Do
 - Develop and maintain full-stack web applications.  
 - Design and implement microservices-based architectures using Docker and Kubernetes.  
